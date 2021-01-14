@@ -1,2 +1,2 @@
 # kerv_public
-Ker's FCC Public Repo
+Ker's FCC Student Public Repo
